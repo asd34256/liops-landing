@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'LiOps',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'LiOps',
 
   // social usernames (optional)
   linkedin: '희준-박-60147a170',
@@ -53,11 +53,11 @@ export default siteConfig({
   navigationLinks: [
     {
       title: 'About',
-      pageId: 'f1199d37579b41cbabfc0b5174f4256a'
+      pageId: '32bc02d0f32b4a37aabdbac0917b1533'
     },
     {
       title: 'Contact',
-      pageId: '6a29ebcb935a4f0689fe661ab5f3b8d1'
+      pageId: '32bc02d0f32b4a37aabdbac0917b1533'
     }
   ]
 })
